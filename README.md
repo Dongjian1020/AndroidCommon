@@ -12,7 +12,7 @@
 ## 二 模块和示例
 ### 通用框架分类如图：
 
-![图片Alt](http://droibaas.yy845.com/droi/o8fvmbzhICCbhqDR56mcxssfc0I6kNLJlQCQiGwU/873017248493735936/1729949754-57a1b7a868915.png)
+![common](https://github.com/Dongjian1020/AndroidCommon/blob/master/common/common.png)
 
 ### 公共类和工具类：
 * [https://github.com/Dongjian1020/android-common](https://github.com/Dongjian1020/android-common)
